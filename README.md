@@ -1,4 +1,4 @@
-GreenIQ - Financial Assistant 🏦
+GreenIQ - Financial Assistant 
 
 # Project Overview
 GreenIQ is an AI-powered financial assistant designed to promote financial inclusion for underserved communities across Africa. The assistant enables users to perform essential banking tasks through natural voice and text conversations in multiple African languages.
