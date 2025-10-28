@@ -29,12 +29,12 @@ GreenIQ is an AI-powered financial assistant designed to promote financial inclu
 3. Financial Operations Framework
 
 Function Calling Architecture for real financial operations:
-- - check_balance() - Account balance inquiry
-- - send_money() - Money transfers to contacts
-- - buy_airtime() - Airtime and data purchases
-- - pay_bill() - Utility bill payments
-- - create_savings_goal() - Micro-savings setup
-- - get_financial_education() - Financial literacy content
+- - check_balance - Account balance inquiry
+- - send_money - Money transfers to contacts
+- - buy_airtime - Airtime and data purchases
+- - pay_bill - Utility bill payments
+- - create_savings_goal - Micro-savings setup
+- - get_financial_education - Financial literacy content
 
 
 4. Image Processing for Bills
